@@ -1,0 +1,14 @@
+img {
+  max-width: 500px;
+  height: auto;
+display: block;
+margin: 20px auto;
+}
+.main-image {max-width: 500px;
+             height: auto;
+             margin: 20px auto;
+            }
+.small-image {width: 200px;
+              display: inline-block;
+              margin: 10px;
+             }
